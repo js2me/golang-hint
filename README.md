@@ -1,0 +1,2 @@
+# golang-hint
+language: Russian
