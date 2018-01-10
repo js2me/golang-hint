@@ -1,4 +1,4 @@
 # golang-hint
 language: Russian
 
-see main.go
+see <a href="https://github.com/truefunrun/golang-hint/blob/master/main.go">main.go</a>
